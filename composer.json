@@ -13,6 +13,7 @@
             "email": "barry@fruitcake.nl"
         }
     ],
+    "version": "0.0.1",
     "require": {
         "spatie/image-optimizer": "^1"
     },
